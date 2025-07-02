@@ -1,3 +1,5 @@
+**You can Run this project on Remix-Ethereum IDE for running and check working of this Smart Contract**
+
 This project implements a decentralized crowdfunding platform using Solidity on the Ethereum blockchain. 
 The smart contract allows users to create fundraising campaigns with a funding goal and deadline. 
 Contributors (backers) can donate Ether to campaigns, and if the goal is met before the deadline, the funds are transferred to the campaign creator.
